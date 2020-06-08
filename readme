@@ -1,7 +1,8 @@
 How to set it up:
 
 - 1. Add your *secret* bot token to the config.json file.
-- 2. Host the bot in your server.
-- 3. Make a channel named "suggestions".
+- 2. Create a suggestions channel.
+- 3. Add the channel name to index.js where it says "SUGGESTION CHANNEL NAME HERE".
+- 4. Host your bot.
 
 If you have any questions contact loertis#4335.
