@@ -1,5 +1,5 @@
 {
-  "name": "loertismod",
+  "name": "suggestionbot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,5 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.2.0",
-    "rover-api": "^1.1.0",
-    "superagent": "^5.2.2"
   }
 }
