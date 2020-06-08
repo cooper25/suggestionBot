@@ -1,0 +1,19 @@
+{
+  "name": "loertismod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "engines": {
+    "node": "12.0.0"
+  },
+  "author": "Loertis",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "rover-api": "^1.1.0",
+    "superagent": "^5.2.2"
+  }
+}
