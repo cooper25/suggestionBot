@@ -14,7 +14,7 @@ client.on('ready', () => {
 })
 
 client.on('message', message => {
-    if (message.channel.name == "SUGGESTION CHANNEL NAME HERE") {
+    if (message.channel.name == channelName) {
       if (message.content.startsWith("/")) {
 
       } else {
