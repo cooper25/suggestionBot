@@ -1,5 +1,5 @@
 {
     "prefix": "-",
-    "token": "YOUR BOT TOKEN HERE", // Learn how: https://bit.ly/2BMTqcP
-    "channel": "YOUR CHANNEL ID HERE" // Learn how: https://bit.ly/2Ydgqcy
+    "token": "YOUR BOT TOKEN HERE",
+    "channel": "YOUR CHANNEL ID HERE"
 }
