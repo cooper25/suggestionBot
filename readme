@@ -5,4 +5,7 @@ How to set it up:
 - 3. Change the channel name to the suggestion channel name in config.json.
 - 4. Host your bot.
 
+Important:
+If you're using visual studio code for hosting, type "node ." into the terminal to start it.
+
 If you have any questions contact loertis#4335.
