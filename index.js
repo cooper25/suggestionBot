@@ -9,12 +9,12 @@ client.login(token);
 /* Code */
 
 client.on('ready', () => {
-    console.log('Bot Booted');
     client.user.setActivity('over servers™ | By Loertis#4335', { type: 'WATCHING' })
+    message.channel.send("Bot Booted, you can delete this message in index.js on line 13.")
 })
 
 client.on('message', message => {
-    if (message.channel.name == "suggestions") {
+    if (message.channel.name == "SUGGESTION CHANNEL NAME HERE") {
       if (message.content.startsWith("/")) {
 
       } else {
