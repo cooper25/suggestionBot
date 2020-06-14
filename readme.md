@@ -7,6 +7,6 @@
 - 4. Host your bot.
 
 Important:
-If you're using visual studio code for hosting, type "node ." into the terminal to start it.
+If you're using visual studio code for hosting, type "node index.js" into the terminal to start it.
 
 If you have any questions contact loertis#4335.
