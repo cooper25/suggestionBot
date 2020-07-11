@@ -6,12 +6,12 @@ client.on('ready', () => {
     client.user.setActivity('over servers™ | By Loertis#4335', { type: 'WATCHING' })
 })
 
-client.on('message', message => {
+client.on('message', async message => {
     if (message.channel.id == channel) {
       if (!message.content.startsWith("/")) {
-        message.react("👍");
-        message.react("👎");
-        message.react("🤔");
+        await message.react("👍");
+        await message.react("👎");
+        await message.react("🤔");
       }
     }
 });
