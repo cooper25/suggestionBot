@@ -17,6 +17,6 @@ The code should look like this:
 _________________________________________________
 
 Important:
-If you're using your computer for hosting, type "node index.js" into the terminal to start the bot.
+If you're using your computer for hosting, type "node ." into the terminal to start the bot.
 
 If you have any questions contact loertis#4335.
